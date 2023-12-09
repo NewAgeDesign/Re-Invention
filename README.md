@@ -29,23 +29,12 @@
         </ul>
     </li>
     <h3>Data Structures & Algorithms</h3>
-        
+    <li> Introduction </li>
+    <li>Basic Algorithms : Insert, Delete, Search, Traverse, Sort </li>
+    <li>Linear Data Structures : Arrays, Stack, Queue, Linked-Lists (Singly, Doubly, Circular, Sorted)</li>
+    <li>Non-Linear Data Structures : Trees, Graphs, Hash Tables, Heaps, Tries, Sets, Bags, Lists</li>
 </ul>
 
-            - Data Structures and Algorithms
-                - Introduction to Data Structures and Algorithms
-                - Basic Algorithms
-                    + Insert
-                    + Delete
-                    + Search
-                    + Traverse
-                    + Sort
-
-                - Linear Data Structures
-                    + Arrays, Linked Lists(Singly, Doubly, Circular, Sorted), Stacks and Queues
-
-                - Non-Linear Data Structures
-                    + Trees, Graphs, Hash Tables, Heaps, Tries, Sets, Bags, Lists
 
                 - Advanced Algorithms
                     + Greedy Algorithms Algorithms
