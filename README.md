@@ -7,37 +7,30 @@
 <h3> Procedural Programming(DMDL - Data Manipulation and Description Language) </h3>
 <ul>
     <h4> Input | Output </h4>
-        <li> Storage: Variables, arrays, and structures </li>
-        <li> Access:  Variable Name, Index, Pointer</li>
+        <li> Storage : Variables, arrays, and structures </li>
+        <li> Access :  Variable Name, Index, Pointer</li>
     <h4>Processing</h4>
     <h4>Arithmetic & Logic Operations: </h4>
-        <li> Arithmetic Operations : +, -, *, /, %, ++, --, **, ++=, =++, --=, =--, **=, =** </li>
-        <li> Assignment : = </li>
-        <li> Comparison Operators : <, >, <=, >=, ==, !=, ===, !== </li>
-        <li>Logical Operator : ||, &&, !, </li>
+    <li> Arithmetic Operations : +, -, *, /, %, ++, --, **, ++=, =++, --=, =--, **=, =** </li>
+    <li> Assignment : = </li>
+    <li> Comparison Operators : <, >, <=, >=, ==, !=, ===, !== </li>
+    <li>Logical Operator : ||, &&, !, </li>
     <h3> Structured Programming </h3>
-        <li>Conditional statements:
+    <li>Conditional statements:
         <ul>
-            <li> Decision Statements: if else-if else, short-if, switch-case</li>
+            <li> Decision Statements : if else-if else, short-if, switch-case</li>
+            <li> Iterative Statements 
+                <ul>
+                    <li>Preemptive : for, while-loop</li>
+                    <li>Non-preemptive : do-while</li>
+                    <li>Control statements : Break, Continue, Pass</li>
+                </ul>
+            </li>
         </ul>
-        </li>
+    </li>
+    <h3>Data Structures & Algorithms</h3>
         
-
-        
-        
-    
 </ul>
-
-            
-        #### 
-            
-
-            - Iterative Statements
-                + Preemptive (for, while-loop)
-                + Non-preemptive (do-while)
-
-            - Control statements
-                + Break, Continue, Pass
 
             - Data Structures and Algorithms
                 - Introduction to Data Structures and Algorithms
