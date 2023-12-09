@@ -9,13 +9,19 @@
     <h4> Input | Output </h4>
         <li> Storage: Variables, arrays, and structures </li>
         <li> Access:  Variable Name, Index, Pointer</li>
-    
     <h4>Processing</h4>
     <h4>Arithmetic & Logic Operations: </h4>
         <li> Arithmetic Operations : +, -, *, /, %, ++, --, **, ++=, =++, --=, =--, **=, =** </li>
         <li> Assignment : = </li>
         <li> Comparison Operators : <, >, <=, >=, ==, !=, ===, !== </li>
         <li>Logical Operator : ||, &&, !, </li>
+    <h3> Structured Programming </h3>
+        <li>Conditional statements:
+        <ul>
+            <li> Decision Statements: if else-if else, short-if, switch-case</li>
+        </ul>
+        </li>
+        
 
         
         
@@ -24,8 +30,7 @@
 
             
         #### 
-            - Decision Statements
-                + if-else-if, switch-case
+            
 
             - Iterative Statements
                 + Preemptive (for, while-loop)
