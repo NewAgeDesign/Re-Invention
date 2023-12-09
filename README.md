@@ -1,5 +1,5 @@
 <h1> Re-Invention </h1>
-<p>This is a repository where I just decided to re-train myself, as well as train others how to ~**code**~, **Develop**, and **Design** Systems, Throughout this journey I plan to learn and teach the fundamentals of programming using C, C++, C#, Java, JS, PHP, Rust </p>
+This is a repository where I just decided to re-train myself, as well as train others how to ~**code**~, **Develop**, and **Design** Systems, Throughout this journey I plan to learn and teach the fundamentals of programming using C, C++, C#, Java, JS, PHP, Rust
 
 ## Programming Paradigms
 ### Imperative Programming: Describes how you do something in a program
