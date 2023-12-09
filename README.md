@@ -3,7 +3,7 @@ This is a repository where I just decided to re-train myself, as well as train o
 
 ## Programming Paradigms
 ### Imperative Programming: Describes how you do something in a program
-#### Procedural Programming(DSL(Data Manipulation and Description Language)){
+#### Procedural Programming(DSL(Data Manipulation and Description Language))
 Input
 Variables, arrays and structures(Storage)
     - accessing variables ()
