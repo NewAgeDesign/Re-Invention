@@ -101,5 +101,4 @@
     <h3>Event-Driven Programming</h3>
     <li>Introduction, Event Handling and Event Loops, Building Event-Driven Applications Event-Driven Frameworks and Libraries</li>
     <li><b>Advanced Topics</b> :  Event sourcing and CQRS for building scalable systems, Reactive programming and its relationship to event-driven programming, Microservices architecture and event-driven communication, Performance Considerations and Optimization techniques for event-driven systems, Emerging trends and future directions in event-driven programming</li>
-    <li></li>
 </ul>
