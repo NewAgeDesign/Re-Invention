@@ -6,17 +6,14 @@
 <h3> Imperative Programming: Describes how you do something in a program </h3>
 <h3> Procedural Programming(DSL(Data Manipulation and Description Language)) </h3>
 <ul>
-    <li>
-        <h5> Input | Output </h5>
-    </li>
+    <h4> Input | Output </h4>
+    <li> Storage: Variables, arrays, and structures </li>
+    <li> Access:  Variable Name, Index, Pointer</li>
+    <h4>Processing</h4>
+    <h5>Arithmetic & Logic Operations</h5>
 </ul>
 Input
 
-Variables, arrays, and structures(Storage)
-
-    - accessing variables ()
-        + Through reference, pointer, and index
-Output - Input
 Processing {
     ~ Arithmetic and Logic Operations
          Arithmetic
