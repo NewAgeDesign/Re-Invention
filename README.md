@@ -33,9 +33,8 @@
     <li>Basic Algorithms : Insert, Delete, Search, Traverse, Sort </li>
     <li>Linear Data Structures : Arrays, Stack, Queue, Linked-Lists (Singly, Doubly, Circular, Sorted)</li>
     <li>Non-Linear Data Structures : Trees, Graphs, Hash Tables, Heaps, Tries, Sets, Bags, Lists</li>
+    <li>Non-Linear Data Structures : Trees, Graphs, Hash Tables, Heaps, Tries, Sets, Bags, Lists</li>
 </ul>
-
-
                 - Advanced Algorithms
                     + Greedy Algorithms Algorithms
                     + Divide And Conquer
