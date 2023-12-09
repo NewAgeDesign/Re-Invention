@@ -4,8 +4,12 @@
 
 <h2> Programming Paradigms </h2>
 <h3> Imperative Programming: Describes how you do something in a program </h3>
-<h4> Procedural Programming(DSL(Data Manipulation and Description Language)) </h4>
-
+<h3> Procedural Programming(DSL(Data Manipulation and Description Language)) </h3>
+<ul>
+    <li>
+        <h5> Input | Output </h5>
+    </li>
+</ul>
 Input
 
 Variables, arrays, and structures(Storage)
