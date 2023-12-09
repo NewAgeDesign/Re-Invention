@@ -39,96 +39,45 @@
     <li>divide and conquer</li>
     <li>dynamic programming (brute force)</li>
     <li>greedy</li>
-    <li>backtracking algorithms</li>
-        
+    <li>Branch and Bound</li>
+    <li>backtracking</li>
+    <li>Randomized</li>
+    <li>Approximation</li>
+    <li>Streaming</li>
+    <li>Parallel</li>
+    <li>Computational Geometry</li>
+    <li>String Matching</li>
+    <li>Cryptography</li>
+    <li>Linear Programming</li>
+    <li>Integer Programming</li>
+    <li>Dynamic Time Wrapping</li>
+    <li>Computational Learning Theory</li>
+    <li>Evolutionary Algorithms</li>
+    <li>Ant Colony Optimization</li>
+    <li>Simulated Annealing</li>
+    <h3>Advanced Data Structures</h3>
+    <li>Advanced Lists : Generic, Memory Efficient (DLL), XOR Linked Lists (Sets), Skip List, Self-Organizing List, Unrolled Linked List</li>
+    <li>N-ary Tree : Generic, Mirror of n-ary Tree, Diameter of an N-ary Tree, Depth of an N-ary Tree, Height of n-ary tree if parent array is given, Number of siblings of a given node in n-ary Tree, Number of ways to Traverse an N-ary tree, Next Larger element in n-ary Tree, Serialize and Deserialize an N-ary Tree, Depth First Search(DFS) for a n-ary Tree (acyclic graph) represented as adjacency list </li>
+    <li>Self Balancing Binary Search Trees(BSFs) : Adelson-Velsky and Landis (AVL) Tree (Introduction, Insertion, Deletion, AVL with duplicate keys)</li>
+    <li>Splay Tree : Introduction, Searching in Splay Tree, Insertion in Splay Tree</li>
+    <li>B-Tree : Introduction, Insertion, Deletion</li>
+    <li>Red-Black Tree : Introduction, Insertion, Deletion</li>
+    <li>Scape Goat Tree and Treap : Introduction, Treap(Random Binary Search Tree) - "Insert, Delete, Search"</li>
+    <li>Tries : Introduction, Insert, Search, Delete, Pattern Search(All Suffixes), Longest Common Prefix, Phone Directory, Weighted Prefix Search, Boggle, Palindrome pair in strings, Reverse DNS Lookup Cache</li>
+    <li>Segment Trees : Introduction, Range minimum query, Lazy Propagation, Persistent Segment Tree, Square Root Decomposition and Sparse Table, Min-Max Range queries in array, LCA in a Binary Tree using (RMQ), Intro to Heavy Light Decomposition, Reconstruction Segment Tree, Longest Common Extension(LCE) using segment trees</li>
+    <li>Binary Indexed Tree (Fenwick Tree) : Intro, Two Dimensional BIT, Range updates and Point Queries, Proto Van Embe Boas Trees</li>
+    <li>Suffix Array and Suffix Tree : Suffix Array Introduction, Suffix Tree Introduction, Ukkonen's Suffix Tree Construction, Generalized Suffix Tree, Suffix Tree Application1 - Substring Check</li>
+    <li>K-Dimensional Tree : Search, Insert, Find minimum in K Dimensional Tree, Deletion in K Dimensional Tree</li>
+    <li>Disjoint Set (Union find) : Introduction, Disjoint set union on Trees, Union by Rank and Path Compression in Union-Find Algorithm</li>
+    <li>Others : Palindromic Tree (Intro and Implement), Ternary Search Tree, Interval Tree, BK-Tree (Intro and Implement), Cartesian Tree, Sparse Set, Gomory-Hu Tree, Persistent Data Structure, Patricia Trees, Bloom Filters</li>
+    <h3>Object Oriented Programming</h3>
+    <li>Classes / Objects, Class Methods, Constructors, Access Specifiers / Access Modifiers, Encapsulation, Inheritance, Polymorphism</li>
 </ul>
-                - Advanced Algorithms
-                    + Greedy Algorithms Algorithms
-                    + Divide And Conquer
-                    + Dynamic Programming
-                    + Branch and Bound
-                    + Backtracking
-                    + Randomized Algorithms
-                    + Approximation
-                    + Streaming
-                    + Parallel
-                    + Graph
-                    + Computational Geometry
-                    + String Matching Algorithms
-                    + Cryptography
-                    + Linear Programming
-                    + Integer Programming
-                    + Dynamic Time Wrapping
-                    + Computational Learning Theory
-                    + Evolutionary Algorithms
-                    + Ant Colony Optimization
-                    + Simulated Annealing
-
-                - Advanced data Structures
-                    + Advanced Lists
-                        - Generic, Memory Efficient (DLL), XOR Linked Lists (Sets), Skip List, Self-Organizing Lists, Unrolled Linked List
-
-                    + n-ary Tree
-                        - Generic, Mirror of n-ary Tree, Diameter of an N-ary Tree, Depth of an N-ary Tree, Height of n-ary tree if parent array is given, Number of siblings of a given node in n-ary Tree, Number of ways to Traverse an N-ary tree, Next Larger element in n-ary Tree, Serialize and Deserialize an N-ary Tree, Depth First Search(DFS) for a n-ary Tree (acyclic graph) represented as adjacency list
-
-                    + Self Balancing Binary Search Trees(BSFs)
-                        - Adelson-Velsky and Landis (AVL) Tree
-                            + Introduction, Insertion, Deletion, AVL with duplicate keys
-
-                        - Splay Tree
-                            + Introduction, Searching in Splay Tree, Insertion in Splay Tree
-
-                        - B-Tree
-                            + Introduction, Insertion, Deletion
-
-                        - Red-Black Tree
-                            + Introduction, Insertion, Deletion
-
-                        - Scape Goat Tree and Treap
-                            + Introduction, Treap(Random Binary Search Tree) - "Insert, Delete, Search"
-
-                        - Tries
-                            + Introduction, Insert, Search, Delete, Pattern Search(All Suffixes), Longest Common Prefix, Phone Directory, Weighted Prefix Search, Boggle, Palindrome pair in strings, Reverse DNS Lookup Cache
-
-                        - Segment Trees
-                            + Introduction, Range minimum query, Lazy Propagation, Persistent Segment Tree, Square Root Decomposition and Sparse Table, Min-Max Range queries in array, LCA in a Binary Tree using (RMQ), Intro to Heavy Light Decomposition, Reconstruction Segment Tree, Longest Common Extension(LCE) using segment trees
-
-                        - Binary Indexed Tree (Fenwick Tree)
-                            + Intro, Two Dimensional BIT, Range updates and Point Queries, Proto Van Embe Boas Trees
-
-                        - Suffix Array and Suffix Tree
-                            + Suffix Array Introduction, Suffix Tree Introduction, Ukkonen's Suffix Tree Construction, Generalized Suffix Tree, Suffix Tree Application1 - Substring Check
-
-                        - K-Dimensional Tree
-                            + Search, Insert, Find minimum in K Dimensional Tree, Deletion in K Dimensional Tree
-
-                        - Disjoint Set (Union find)
-                            + Introduction, Disjoint set union on Trees, Union by Rank and Path Compression in Union-Find Algorithm
-
-                        - Others
-                            + Palindromic Tree (Intro and Implement)
-                            + Ternary Search Tree
-                            + Interval Tree
-                            + BK-Tree (Intro and Implement)
-                            + Cartesian Tree
-                            + Sparse Set
-                            + Gomory-Hu Tree
-                            + Persistent Data Structure
-                            + Patricia Trees
-                            + Bloom Filters
-
-            - Object Oriented Programming
-                - Classes / Objects
-                - Class Methods
-                - Constructors
-                - Access Specifiers / Access Modifiers
-                - Encapsulation
-                - Inheritance
-                - Polymorphism
-                - Files
+            
+                - 
+                Files
                 - Exceptions
                     + Try-catch-throw
-
                 Parallel programming
                 ~ Introduction
                     - Intro & Benefits
