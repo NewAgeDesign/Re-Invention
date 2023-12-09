@@ -2,9 +2,9 @@
 <p>This is a repository where I just decided to re-train myself, as well as train others how to <b><strike>code</strike></b>, <b>Develop</b>, and <b>Design</b> Systems. Throughout this journey, I plan to learn and teach the fundamentals of programming using <b>C, C++, C#, Java, JS, PHP, Rust</b></p>
 <p>Any member of this program will devote themselves to coding every single day until the code stack is complete, <b>Every single Day</b></p>
 
-## Programming Paradigms
-### Imperative Programming: Describes how you do something in a program
-#### Procedural Programming(DSL(Data Manipulation and Description Language))
+<h2> Programming Paradigms </h2>
+<h3> Imperative Programming: Describes how you do something in a program </h3>
+<h4> Procedural Programming(DSL(Data Manipulation and Description Language)) </h4>
 
 Input
 
