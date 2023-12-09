@@ -72,40 +72,34 @@
     <li>Others : Palindromic Tree (Intro and Implement), Ternary Search Tree, Interval Tree, BK-Tree (Intro and Implement), Cartesian Tree, Sparse Set, Gomory-Hu Tree, Persistent Data Structure, Patricia Trees, Bloom Filters</li>
     <h3>Object Oriented Programming</h3>
     <li>Classes / Objects, Class Methods, Constructors, Access Specifiers / Access Modifiers, Encapsulation, Inheritance, Polymorphism</li>
+    <li><b>Files</b></li>
+    <li><b>Exceptions</b> : Try-catch-throw</li>
+    <li><b>Exceptions</b> : Try-catch-throw</li>
+    <h3> Parallel Programming </h3>
+    <li><b>Introduction</b> : Introduction Intro & Benefits, Flynn's Taxonomy and Parallel Programming, Amdahl's Law and Speedup Limitations</li>
+    <li><b>Types of Parallelism</b> : Bit-level Parallelism, Instruction-Level Parallelism, Task/Process-Level Parallelism, Data-Level Parallelism</li>
+    <li>Purpose</li>
+    <li>Applications</li>
+    <li>Limitations</li>
+    <li><b>Shared-Memory Programming</b> : Threads and synchronization primitives, Mutexes, semaphores, condition variables, Programming with threads</li>
+    <li>Message-Passing Programming</li>
+    <li>Data-Parallel Programming</li>
+    <li>Task-Parallel Programming</li>
+    <li>Performance Optimization</li>
+    <li>Advanced Topics</li>
 </ul>
-            
-                - 
-                Files
-                - Exceptions
-                    + Try-catch-throw
-                Parallel programming
-                ~ Introduction
-                    - Intro & Benefits
-                    - Flynn's Taxonomy and Parallel Programming
-                    - Amdahl's Law and Speedup Limitations
-                    - Types of Parallelism
-                        + Bit-level Parallelism
-                        + Instruction-Level Parallelism
-                        + Task/Process-Level Parallelism
-                        + Data-Level Parallelism
-            
-                ~ Purpose
-                ~ Applications
-                ~ Limitation
-            
-                ~ Shared-Memory Programming
-                    - Threads and synchronization primitives
-                        + Mutexes, semaphores, condition variables
-                        + Programming with threads
-            
-                ~ Message-Passing Programming
-            
-                ~ Data-Parallel Programming
-            
-                ~ Task-Parallel Programming
-            
-                ~ Performance Optimization
-            
-                ~ Advanced Topics
 
-### Declarative Programming
+<h2>Declarative Programming : Describes What you want to do in the program</h2>
+
+<ul>
+    <h3>Logic Based (PROLOG)</h3>
+    <li>SQL, HTML, CSS</li>
+    <h3>Functional Based(Lambda Calculus)</h3>
+    <li>Pure Functions, Recursion, Referential transparency, Functions First-Class and Higher-Order, Variables are Immutable</li>
+    <h3>Reactive Programming</h3>
+    <li>Creating Observables, Transforming, Filtering, Conditional, Combining, Subscribe</li>
+    <h3>Event-Driven Programming</h3>
+    <li>Introduction, Event Handling and Event Loops, Building Event-Driven Applications Event-Driven Frameworks and Libraries</li>
+    <li><b>Advanced Topics</b> :  Event sourcing and CQRS for building scalable systems, Reactive programming and its relationship to event-driven programming, Microservices architecture and event-driven communication, Performance Considerations and Optimization techniques for event-driven systems, Emerging trends and future directions in event-driven programming</li>
+    <li></li>
+</ul>
