@@ -4,20 +4,21 @@
 
 <h2> Programming Paradigms </h2>
 <h3> Imperative Programming: Describes how you do something in a program </h3>
-<h3> Procedural Programming(DSL(Data Manipulation and Description Language)) </h3>
+<h3> Procedural Programming(DMDL - Data Manipulation and Description Language) </h3>
 <ul>
     <h4> Input | Output </h4>
-    <li> Storage: Variables, arrays, and structures </li>
-    <li> Access:  Variable Name, Index, Pointer</li>
+        <li> Storage: Variables, arrays, and structures </li>
+        <li> Access:  Variable Name, Index, Pointer</li>
     <h4>Processing</h4>
-    <h5>Arithmetic & Logic Operations</h5>
+    <h5>Arithmetic & Logic Operations : </h5>
+        <li>Arithmetic Operations : +, -, *, /, %, ++, --, **, ++=, =++, --=, =--, **=, =** </li>
+        <li>Assignment : = </li>
+    
 </ul>
 Input
 
 Processing {
     ~ Arithmetic and Logic Operations
-         Arithmetic
-            // +, -, *, /, %, ++, --, **, ++=, =++, --=, =--, **=, =**
             Assignment
             =
             Comparison Operators
