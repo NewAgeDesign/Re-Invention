@@ -3,16 +3,15 @@ This is a repository where I just decided to re-train myself, as well as train o
 
 ## Programming Paradigms
 ### Imperative Programming: Describes how you do something in a program
-/*
 #### Procedural Programming(DSL(Data Manipulation and Description Language)){
-    Input
-    Variables, arrays and structures(Storage)
-        - accessing variables ()
-            + Through reference, pointer, and index
-    Output - Input
-    Processing {
-        ~ Arithmetic and Logic Operations
-            Arithmetic
+Input
+Variables, arrays and structures(Storage)
+    - accessing variables ()
+        + Through reference, pointer, and index
+Output - Input
+Processing {
+    ~ Arithmetic and Logic Operations
+         Arithmetic
             // +, -, *, /, %, ++, --, **, ++=, =++, --=, =--, **=, =**
             Assignment
             =
