@@ -30,10 +30,17 @@
     </li>
     <h3>Data Structures & Algorithms</h3>
     <li> Introduction </li>
-    <li>Basic Algorithms : Insert, Delete, Search, Traverse, Sort </li>
+    <li>Primitive Data Structures : byte, boolean, short, integer, long, double, float, and char</li>
     <li>Linear Data Structures : Arrays, Stack, Queue, Linked-Lists (Singly, Doubly, Circular, Sorted)</li>
     <li>Non-Linear Data Structures : Trees, Graphs, Hash Tables, Heaps, Tries, Sets, Bags, Lists</li>
-    <li>Non-Linear Data Structures : Trees, Graphs, Hash Tables, Heaps, Tries, Sets, Bags, Lists</li>
+    <li>Basic Algorithms : Insert, Delete, Search, Traverse, Sort </li>
+    <h3>Advanced Algorithms : Design and Analysis of Algorithms</h3>
+    <li>recursive</li>
+    <li>divide and conquer</li>
+    <li>dynamic programming (brute force)</li>
+    <li>greedy</li>
+    <li>backtracking algorithms</li>
+        
 </ul>
                 - Advanced Algorithms
                     + Greedy Algorithms Algorithms
