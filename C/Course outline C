@@ -1,4 +1,18 @@
-Ok, breakdown of the C course
+C is a general-purpose, procedural computer programming language supporting structured programming, 
+lexical variable scope, and recursion, with a static type system. By design, C provides constructs that 
+map efficiently to typical machine instructions. It has found lasting use in applications previously 
+coded in assembly language. Such applications include operating systems and various application software 
+for computer architectures that range from supercomputers to PLCs and embedded systems.
+
+Like all programming languages, they either have to have a list of components that allow it 
+to work accross different systems, this is called a Programming Environment and is mainly composed of:
+    - A text editor, to write the code.
+    - A compiler or interpreter to translate the code into machine readable language.
+        - A linker, to link the code with the libraries.
+        - A debugger, to find errors in the code.
+        - A builder, to build the code into an executable file.
+
+Ok, breakdown of the course
     - Lesson 1: Introduction to C : Input and Output
     - Lesson 2: Variables and Data Types
     - Lesson 3: Operators
